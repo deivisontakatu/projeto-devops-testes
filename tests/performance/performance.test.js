@@ -15,8 +15,8 @@ describe('Teste de Performance', () => {
   test('deve responder rapidamente', async () => {
     const result = await autocannon({
       url: 'http://localhost:3000',
-      connections: 10,
-      duration: 5
+      connections: 20,
+      duration: 10
     });
 
     expect(result.requests.average).toBeGreaterThan(0);
