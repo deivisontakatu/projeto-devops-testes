@@ -8,7 +8,7 @@ Projeto completo para demonstrar práticas DevOps utilizando:
 - Integração Contínua (CI)
 - GitHub Actions
 
-O objetivo deste projeto é ensinar como automatizar validações de software em um pipeline DevOps moderno.
+O objetivo deste projeto é apresentar como automatizar validações de software em um pipeline DevOps moderno.
 
 ---
 
